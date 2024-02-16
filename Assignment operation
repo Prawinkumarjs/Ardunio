@@ -1,0 +1,30 @@
+// Assignment operation 
+
+void setup() {
+  // put your setup code here, to run once:
+  Serial.begin(9600);
+  int x = 0;
+  x = x+5;   // normal addition 
+  Serial.println(x);
+  x+=5;     // addition using assignment operation 
+  Serial.println(x);
+  x = x-5;   // subtraction  
+  Serial.println(x);
+  x-=5;      // subtraction using assignment operation
+  Serial.println(x);
+  x*=5;      // multiplication using assignment operation 
+  Serial.println(x);
+  x = x*5;   // multiplication
+  Serial.println(x);
+  x = x/5;   // division
+  Serial.println(x);
+  x/=5;     // division using assignment operation
+  Serial.println(x);
+
+
+}
+
+void loop() {
+  // put your main code here, to run repeatedly:
+
+}
