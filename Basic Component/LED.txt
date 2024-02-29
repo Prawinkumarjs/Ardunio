@@ -1,0 +1,8 @@
+LED
+
+LED - Light Emitting Diode 
+Its has two terminal Anode(+) and Cathode (-)
+
+IN led we can find the anode and cathode by 
+Long leg -> Anode
+Short leg -> Cathode

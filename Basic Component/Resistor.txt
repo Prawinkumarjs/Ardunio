@@ -1,0 +1,6 @@
+The resistor is a passive two-terminal electrical component  that impplements 
+electrical resistance as a circuit element.
+
+Its represented in Ohm 
+
+Link for resistor calculation : https://www.digikey.com/en/resources/conversion-calculators/conversion-calculator-resistor-color-code
