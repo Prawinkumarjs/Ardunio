@@ -1,0 +1,15 @@
+PWM - Pulse width Modulation
+
+PWM analogWrite()
+
+digitalWrite(pin Number, HIGH)  -> 5 volts
+digitalWrite(pin Number,  LOW)  -> 0 volts
+
+
+Arduino can provide any analog value
+
+0% Duty Cycle - analogWrite(0)
+25% Duty Cycle - analogWrite(64)
+50% Duty Cycle - analogWrite(127)
+75% Duty Cycle - analogWrite(191)
+100% Duty Cycle - analogWrite(255)
